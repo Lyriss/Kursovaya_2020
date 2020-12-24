@@ -1,0 +1,14 @@
+﻿  UnitTest2.cpp
+C:\Users\magis\source\repos\CalcCurse\InfixToPostfix.h(29,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\magis\source\repos\CalcCurse\InfixToPostfix.h(196,79): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\magis\source\repos\CalcCurse\InfixToPostfix.h(237,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\magis\source\repos\CalcCurse\InfixToPostfix.h(241,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\magis\source\repos\CalcCurse\InfixToPostfix.h(421,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\magis\source\repos\CalcCurse\SyntaxAnalyzer.h(113,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\magis\source\repos\CalcCurse\SyntaxAnalyzer.h(208,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\magis\source\repos\CalcCurse\SyntaxAnalyzer.h(211,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\magis\source\repos\CalcCurse\SyntaxAnalyzer.h(222,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\magis\source\repos\CalcCurse\SyntaxAnalyzer.h(225,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\magis\source\repos\CalcCurse\InfixToPostfix.h(23): warning C4715: operation_order: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\magis\source\repos\CalcCurse\Debug\UnitTest2.lib и объект C:\Users\magis\source\repos\CalcCurse\Debug\UnitTest2.exp
+  UnitTest2.vcxproj -> C:\Users\magis\source\repos\CalcCurse\Debug\UnitTest2.dll
